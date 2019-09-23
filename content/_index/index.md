@@ -1,6 +1,6 @@
 +++
 url = "/"
 title = "Home"
-date = "2017-09-07"
-description = "Home of Dymodia"
+date = "2019-09-22"
+description = "Dymodia"
 +++

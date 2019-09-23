@@ -1,13 +1,13 @@
 +++
 fragment = "hero"
 #disabled = true
-date = "2016-09-07"
+date = "2019-09-22"
 weight = 50
 background = "danger" # can influence the text color
 #particles = true
 
 title = "Dymodian Systems"
-subtitle = "Home of Dymodia"
+subtitle = " "
 
 [header]
   image = "header.jpg"

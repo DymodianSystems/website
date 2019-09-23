@@ -1,4 +1,4 @@
 +++
 title = "About Dymodian Systems"
-date = "2019-09-04"
+date = "2019-09-22"
 +++
